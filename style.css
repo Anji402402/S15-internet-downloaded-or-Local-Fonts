@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Updock&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&family=Faster+One&family=Lakki+Reddy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&family=Faster+One&family=Lakki+Reddy&family=Tillana:wght@400;500;600;700;800&display=swap');
+
+.Reddy{
+    background-color:green;
+    font-size: 50px;
+    text-align: center;
+    color: goldenrod;
+    border-radius: 3rem;
+    text-shadow: 10px 10px 10px;
+    box-shadow: 10px 10px 10px;
+}
+.SyerraPic{
+    width:400px;
+    height: 400px;
+    border-radius: 100%;
+    margin-left: 20px;
+    border: 20px dotted rosybrown;
+    box-shadow: 10px 10px 10px mediumvioletred;
+    
+}   
+#Syeraa{
+    background-color: rgb(216, 205, 205);
+    width: 1100px;
+    height: 100px;
+    text-align: justify;
+    font-family: "Faster One", system-ui;
+    margin-left: 20px;overflow: auto;  
+       
+}    
+#SyeraaDes{
+    background-color: rgb(216, 205, 205);
+    width: 1100px;
+    height: 100px;
+    margin-left: 20px;
+    text-align: justify;
+    font-family: "Akaya Telivigala", system-ui;
+    overflow:auto;
+}
+#SyeraaDes-1{
+    background-color: rgb(216, 205, 205);
+    width: 1100px;
+    height: 100px;
+    margin-left: 20px;
+    text-align: justify;
+    font-family: "Tillana", system-ui;
+    overflow:auto;
+
+}
+#Mystic{
+    font-size: 30px;
+    margin-left: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: brown;
+    
+}
+
+#PowerPic{
+    width:400px;
+    height: 400px;
+    border: 20px solid rgb(32, 26, 26);
+    padding: 30px;
+    margin: 30px;
+    border-radius: 30px;
+    box-shadow:10px 10px 10px red ;  
+}
+@font-face{
+    font-family:Telugu ;
+    src: url(./font/Nandakam\ Regular.otf);
+}
+#RangersDes{
+    display: inline-block;
+    font-family:Telugu ;
+    font-size: medium; 
+    text-align: justify;
+    margin-left: 20px;
+    margin-right: 20px;
+    overflow: auto;
+}
+@font-face {
+    font-family:Tamil ;
+    src: url(./font/Alankaram\ Plain.otf);
+}
+#RangersDes-1{
+    font-family: Tamil;
+    font-size:medium ;
+    text-align: justify;
+    margin-left: 20px;
+    margin-right: 20px;
+}
